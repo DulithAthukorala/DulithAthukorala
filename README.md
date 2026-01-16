@@ -4,7 +4,7 @@ I’m **Dulith**, an AI & ML undergraduate,
 
 I build end-to-end  machine learning and LLM-powered systems.
 
-My work focuses on **NLP, transformer architectures, and modern GenAI systems**, with an emphasis on building things cleanly, correctly, and with intent.
+My work focuses on **NLP, Computer Vision, transformer architectures and modern GenAI systems**, with an emphasis on building things cleanly, correctly, and with intent.
 
 This space is where I publish projects, experiments, and system-level explorations.  
 Most work is implemented **from scratch**, with minimal abstractions and clear reasoning.
