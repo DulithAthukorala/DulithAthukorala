@@ -1,23 +1,41 @@
 Hey there 👋
 
-I’m **Dulith**, an AI & ML undergraduate at **IIT Colombo**.
+I’m **Dulith**, an AI & ML undergraduate,
 
-I build machine learning and deep learning systems —  
-from **math and theory** to **working, deployable apps**.
+I build machine learning and LLM-powered systems end-to-end (Data Perp to Model Deployment)
 
-Most of my time goes into:
-- Transformers & NLP
-- Training models from scratch (yes, for understanding)
-- Turning ML projects into real APIs and dashboards
+My work focuses on **NLP, transformer architectures, and modern GenAI systems**, with an emphasis on building things cleanly, correctly, and with intent.
 
-I care a lot about **clean code**, **model internals**, and **engineering things properly** — not just getting results.
+This space is where I publish projects, experiments, and system-level explorations.  
+Most work is implemented **from scratch**, with minimal abstractions and clear reasoning.
 
-Currently:
-- Building production-style ML projects
-- Breaking and rebuilding models to understand them better
-- Preparing for ML / AI internships
+---
 
-Fun facts:
-- I enjoy debugging more than writing new code  
-- I trust math more than tutorials  
-- I probably over-engineer things on purpose
+## Tools & Tech
+- Python,NumPy, Pandas, scikit-learn 
+- PyTorch,tensorflow
+
+- LangChain  
+- Retrieval-Augmented Generation (RAG)  
+
+- FAISS, Chroma
+- AWS / GCP
+  
+- FastAPI, Streamlit  
+- Docker, Git, MLflow  
+
+---
+
+## Currently Exploring
+- Designing robust RAG architectures
+- LangChain-based agentic systems
+- LLM FineTuning
+- Translating research ideas into reliable systems
+
+---
+
+## A Bit About Me
+- I care deeply about **correctness and clarity**
+- I optimize for systems that are understandable and extensible
+- I trust first principles more than shortcuts
+- I treat learning as an engineering process
