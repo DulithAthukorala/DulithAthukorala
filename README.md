@@ -2,7 +2,7 @@ Hey there 👋
 
 I’m **Dulith**, an AI & ML undergraduate,
 
-I build machine learning and LLM-powered systems end-to-end (Data Perp to Model Deployment)
+I build end-to-end  machine learning and LLM-powered systems.
 
 My work focuses on **NLP, transformer architectures, and modern GenAI systems**, with an emphasis on building things cleanly, correctly, and with intent.
 
@@ -14,13 +14,10 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ## Tools & Tech
 - Python,NumPy, Pandas, scikit-learn 
 - PyTorch,tensorflow
-
 - LangChain  
 - Retrieval-Augmented Generation (RAG)  
-
 - FAISS, Chroma
 - AWS / GCP
-  
 - FastAPI, Streamlit  
 - Docker, Git, MLflow  
 
