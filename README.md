@@ -12,8 +12,8 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ---
 
 ## Tools & Tech
-- Python,NumPy, Pandas, scikit-learn 
-- PyTorch,tensorflow
+- Python, NumPy, Pandas, scikit-learn 
+- PyTorch,Tensorflow
 - LangChain  
 - Retrieval-Augmented Generation (RAG)  
 - FAISS, Chroma
@@ -24,8 +24,7 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ---
 
 ## Currently Exploring
-- Designing robust RAG architectures
-- LangChain-based agentic systems
+- Designing robust RAG architectures & LangChain-based agentic systems
 - LLM FineTuning
 - Translating research ideas into reliable systems
 
@@ -34,5 +33,4 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ## A Bit About Me
 - I care deeply about **correctness and clarity**
 - I optimize for systems that are understandable and extensible
-- I trust first principles more than shortcuts
 - I treat learning as an engineering process
