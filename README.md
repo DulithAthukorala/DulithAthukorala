@@ -12,14 +12,15 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ---
 
 ## Tools & Tech
-- Python, NumPy, Pandas, scikit-learn 
-- PyTorch,Tensorflow
+- Python, Java
+- PyTorch, Numpy
+- Retrieval-Augmented Generation (RAG)
 - LangChain  
-- Retrieval-Augmented Generation (RAG)  
-- FAISS, Chroma
+- FAISS, Chroma 
 - AWS / GCP
-- FastAPI, Streamlit  
-- Docker, Git, MLflow  
+- FastAPI, Streamlit
+- Pandas, Matplotlib, scikit-learn
+- Docker, Git, MLflow, W&B 
 
 ---
 
