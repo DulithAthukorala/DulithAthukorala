@@ -27,4 +27,4 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ## Currently Exploring
 - Designing robust RAG architectures & LangChain-based agentic systems
 - LLM FineTuning
-- Translating research ideas into reliable systems
+- Data warehousing and Cloud Computing
