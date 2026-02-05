@@ -15,9 +15,9 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 - Python, Java
 - PyTorch, Numpy
 - Retrieval-Augmented Generation (RAG)
-- LangChain  
+- LangChain / LangGraph  
 - FAISS, Chroma 
-- AWS / GCP
+- AWS
 - FastAPI, Streamlit
 - Pandas, Matplotlib, scikit-learn
 - Docker, Git, MLflow, W&B 
