@@ -18,7 +18,8 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 - LangChain / LangGraph  
 - FAISS, Chroma 
 - AWS
-- FastAPI, Streamlit
+- FastAPI
+- React, Streamlit
 - Pandas, Matplotlib, scikit-learn
 - Docker, Git, MLflow, W&B 
 
