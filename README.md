@@ -12,7 +12,7 @@ Most work is implemented **from scratch**, with minimal abstractions and clear r
 ---
 
 ## Tools & Tech
-- Python, Java
+- Python, JS, Java
 - PyTorch, Numpy
 - Retrieval-Augmented Generation (RAG)
 - LangChain / LangGraph  
